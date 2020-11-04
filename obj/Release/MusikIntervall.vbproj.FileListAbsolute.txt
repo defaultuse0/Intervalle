@@ -1,0 +1,17 @@
+E:\Users\Jarne\source\repos\MusikIntervall\bin\Release\MusikIntervall.exe.config
+E:\Users\Jarne\source\repos\MusikIntervall\bin\Release\MusikIntervall.exe
+E:\Users\Jarne\source\repos\MusikIntervall\bin\Release\MusikIntervall.pdb
+E:\Users\Jarne\source\repos\MusikIntervall\bin\Release\MusikIntervall.xml
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.ConfirmQuit.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.Info.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.Score.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.Quest.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.StartSettings.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.StartScreen.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.Resources.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.WebBrowser.resources
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.vbproj.GenerateResource.cache
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.vbproj.CoreCompileInputs.cache
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.exe
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.xml
+E:\Users\Jarne\source\repos\MusikIntervall\obj\Release\MusikIntervall.pdb
